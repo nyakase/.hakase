@@ -1,2 +1,0 @@
-# .vukky
-purr :3
