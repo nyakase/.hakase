@@ -146,7 +146,6 @@ Name=Breeze Light
 XftAntialias=false
 XftHintStyle=hintnone
 XftSubPixel=none
-accentColorFromWallpaper=false
 fixed=Terminus,12,-1,5,50,0,0,0,0,0
 font=Terminus,12,-1,5,50,0,0,0,0,0
 menuFont=Terminus,12,-1,5,50,0,0,0,0,0

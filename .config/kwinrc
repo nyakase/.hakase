@@ -3,6 +3,9 @@ Id_1=1fff6e0b-eb83-40eb-a2bc-03273fb15130
 Number=1
 Rows=1
 
+[TabBox]
+LayoutName=compact
+
 [Tiling]
 padding=4
 
