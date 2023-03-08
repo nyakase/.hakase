@@ -1,2 +1,3 @@
 [Mouse]
+X11LibInputXAccelProfileFlat=false
 cursorTheme=OneShot

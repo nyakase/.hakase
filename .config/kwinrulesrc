@@ -1,0 +1,22 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=Hide Shimeji from taskbar
+noborder=true
+noborderrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+wmclass=com-group_finity-mascot-main
+wmclassmatch=1
+
+[4e889bfe-8052-4325-8566-a163ee414810]
+Description=Hide Shimeji from taskbar
+skiptaskbar=true
+skiptaskbarrule=2
+wmclass=com-group_finity-mascot-Main
+wmclassmatch=1
+
+[General]
+count=1
+rules=1
