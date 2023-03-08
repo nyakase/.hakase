@@ -1,0 +1,12 @@
+[Appearance]
+Skin=legacy
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=20
+KeepAbove=false
+KeepOpen=false
+ShowTabBar=false
+Width=50
