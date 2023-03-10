@@ -9,6 +9,9 @@ LayoutName=compact
 [Tiling]
 padding=4
 
+[Tiling][0dfe5be2-0684-5c1a-a718-cd756ed5f303]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][213a9620-187e-58a6-b80b-85d8fb95dfce]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
