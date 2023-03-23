@@ -5,7 +5,7 @@ Skin=legacy
 FirstRun=false
 
 [Window]
-Height=20
+Height=27
 KeepAbove=false
 KeepOpen=false
 ShowTabBar=false
