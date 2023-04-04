@@ -10,13 +10,14 @@ skiptaskbarrule=2
 wmclass=com-group_finity-mascot-main
 wmclassmatch=1
 
-[4e889bfe-8052-4325-8566-a163ee414810]
-Description=Hide Shimeji from taskbar
-skiptaskbar=true
-skiptaskbarrule=2
-wmclass=com-group_finity-mascot-Main
+[128cdbe6-9b6f-4c7b-9ff3-b2bf64a3cc2e]
+Description=Allow Stone Story resizing
+minsize=1,1
+minsizerule=2
+wmclass=stone_story_linux.x86_64
+wmclasscomplete=true
 wmclassmatch=1
 
 [General]
-count=1
-rules=1
+count=2
+rules=1,128cdbe6-9b6f-4c7b-9ff3-b2bf64a3cc2e
