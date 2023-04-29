@@ -18,6 +18,14 @@ wmclass=stone_story_linux.x86_64
 wmclasscomplete=true
 wmclassmatch=1
 
+[2]
+Description=Allow Stone Story resizing
+minsize=1,1
+minsizerule=2
+wmclass=stone_story_linux.x86_64
+wmclasscomplete=true
+wmclassmatch=1
+
 [General]
 count=2
-rules=1,128cdbe6-9b6f-4c7b-9ff3-b2bf64a3cc2e
+rules=1,2
