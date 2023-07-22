@@ -1,16 +1,15 @@
 [Hotkey]
 # Enumerate when press trigger key repeatedly
 EnumerateWithTriggerKeys=True
+# Temporally switch between first and current Input Method
+AltTriggerKeys=
 # Skip first input method while enumerating
 EnumerateSkipFirst=False
 
 [Hotkey/TriggerKeys]
-0=Zenkaku_Hankaku
-1=Hangul
-2=Super+space
-
-[Hotkey/AltTriggerKeys]
-0=Shift_L
+0=Super+space
+1=Zenkaku_Hankaku
+2=Hangul
 
 [Hotkey/EnumerateForwardKeys]
 0=Control+Shift_L
@@ -47,9 +46,9 @@ EnumerateSkipFirst=False
 
 [Behavior]
 # Active By Default
-ActiveByDefault=True
+ActiveByDefault=False
 # Share Input State
-ShareInputState=All
+ShareInputState=No
 # Show preedit in application
 PreeditEnabledByDefault=True
 # Show Input Method Information when switch input method
